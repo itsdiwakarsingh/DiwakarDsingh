@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diwakar D.
-- 👀 I’m interested in 3D Modling,Hacking,Web Development and Learning
+- 👀 I’m interested in 3D Modling,Web Development and Learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me jerryhoodjob2@gmail.com
