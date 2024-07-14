@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diwakar D.
+- 👋 Hi, I’m @Diwakar Singh
 - 👀 I’m interested in 3D Modling,Web Development and Learning
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ....
